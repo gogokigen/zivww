@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Z](README.md)
+* [about](README.md)
 * [Cybersecurity](cybersecurity.md)
 * [Law](law.md)
 * [Life Updates](life-updates.md)
