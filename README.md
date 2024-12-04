@@ -2,23 +2,39 @@
 noRobotsIndex: true
 layout:
   title:
-    visible: true
+    visible: false
   description:
     visible: false
   tableOfContents:
-    visible: true
-  outline:
     visible: false
+  outline:
+    visible: true
   pagination:
     visible: false
 ---
 
-# Z
+# About
 
-### CERTIFICATIONS
+## Resume
 
-aaa
+#### CERTIFICATIONS
 
-### CORE COMPETENCIES
+*
 
-### EXPERIENCE
+#### CORE COMPETENCIES
+
+*
+
+#### EXPERIENCE
+
+
+
+## Cybersecurity
+
+
+
+## Law
+
+
+
+## Life Updates

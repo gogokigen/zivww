@@ -1,6 +1,0 @@
----
-noRobotsIndex: true
----
-
-# Cybersecurity
-
