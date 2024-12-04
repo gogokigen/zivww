@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Cybersecurity Engineer](README.md)
+* [Resume](README.md)
+* [Cybersecurity](cybersecurity.md)
 * [Law](law.md)
+* [Now](now.md)
