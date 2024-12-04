@@ -13,14 +13,15 @@ layout:
     visible: false
 ---
 
-# Resume
+# Life Updates
 
-### AWARD
+**最近在忙什麼？**
 
-### CERTIFICATIONS
+### 最近有興趣的事？
 
-aaa
+### 最近去過哪裡？
 
-### CORE COMPETENCIES
+和歌山縣高野町
 
-### EXPERIENCE
+### 最近看過的書？
+
