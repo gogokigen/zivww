@@ -13,9 +13,7 @@ layout:
     visible: false
 ---
 
-# Resume
-
-### AWARD
+# Z
 
 ### CERTIFICATIONS
 
