@@ -1,5 +1,4 @@
 # Table of contents
 
-* [Ziv](README.md)
-* [Cybersecurity](cybersecurity.md)
+* [Cybersecurity Engineer](README.md)
 * [Law](law.md)
